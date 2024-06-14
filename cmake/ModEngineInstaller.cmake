@@ -1,5 +1,5 @@
 set(CPACK_PACKAGE_NAME "ModEngine")
-set(CPACK_PACKAGE_VENDOR "https://github.com/soulsmods/modengine2")
+set(CPACK_PACKAGE_VENDOR "https://github.com/strawhat-dev/modengine2")
 set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Mod Engine 2 - Mod companion framework for Souls games")
 set(CPACK_PACKAGE_VERSION "2.1.0.0")
 set(CPACK_PACKAGE_INSTALL_DIRECTORY "modengine2")
